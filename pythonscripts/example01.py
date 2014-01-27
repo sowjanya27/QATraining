@@ -1,4 +1,7 @@
 #4.Match all the phone numbers in usa
+
+#Checking the modifications on GIT hub
+
 def phone_match(phone):
 	pat =re.compile('(^\([1-9][0-9][0-9]\)\\s?[0-9][0-9][0-9]\-[0-9][0-9][0-9][0-9])')
 	result = pat.match(phone)
