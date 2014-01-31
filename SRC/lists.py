@@ -1,3 +1,7 @@
+
+C
+#Modifi
+#Modify the list file
 #!/usr/bin/python
 
 List=[123,'H',"Hello",70.2]
