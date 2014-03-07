@@ -1,4 +1,10 @@
+
+
+
+#modified list program
+
 #!/usr/bin/python
+
 
 List=[123,'H',"Hello",70.2]
 a=[23,12.3,'Python']
